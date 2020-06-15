@@ -7,3 +7,6 @@ otherwise you may have extra difficulty passing this lab."
 console.error("console error test")
 console.log("console log test")
 console.warn("console warn test")
+
+// rearranged index-test to more sensible log-warn-error order.
+// tests passed both times.
