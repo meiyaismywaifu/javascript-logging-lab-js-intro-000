@@ -9,4 +9,4 @@ console.log("console log test")
 console.warn("console warn test")
 
 // rearranged index-test to more sensible log-warn-error order.
-// tests passed both times.
+// tests passed both times. apparently order irrelevant here.
